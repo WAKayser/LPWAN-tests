@@ -1,0 +1,5 @@
+# Specify filepatterns you want git to ignore.
+
+old/*
+codelist.csv
+code_copier.py
